@@ -7,3 +7,11 @@
 綽號: Weipo 微薄 微博 微ㄅㄛˊ Weipo <br>
 就讀 東吳大學巨資系 (Big Data Management) <br>
 
+<ol>
+	<li>
+		<a href="20190916/index.html">9/16課堂作業</a>
+	</li>
+	<li>
+		<a href="20190923/index.html">9/23課堂作業</a>
+	</li>
+<  
