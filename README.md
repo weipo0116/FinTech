@@ -9,9 +9,9 @@
 
 <ul>
 	<li>
-		<a href="homework/0318_HW.md">3/18課堂作業</a>
+		<a href="homework/0318_HW.md">作業一</a>
 	</li>
 	<li>
-		<a href="homework/index.md">9/23課堂作業</a>
+		<a href="homework/index.md">作業二</a>
 	</li>
 </ul>  
