@@ -13,7 +13,7 @@
 		<a href="homework/0318_HW.md">作業一</a>
 	</li>
 	<li>
-		<a href="homework/0322_HW.md">作業二</a>
+		<a href="https://youtu.be/rE4RbrbPYiU">作業二</a>
 	</li>
 	<li>
 		<a href="homework/0322_HW.md">作業三</a>
