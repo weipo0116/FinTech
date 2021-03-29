@@ -29,10 +29,10 @@
 </ul>  
 <h3>專題:玉山證券題目一</h3>
 <p>Mentors</p>
-<ul>
+<ol>
 	<li> 張智星老師 </li>
 	<li></li>
 	<li></li>
-</ul>	
+</ol>	
 
 
