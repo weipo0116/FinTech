@@ -7,7 +7,7 @@
 就讀 東吳大學巨資系 (Big Data Management) <br>
 
 <h3>作業繳交區:</h3>
-<<ul>
+<ul>
 	<li>
 		<p><a href="homework/0318_HW.md">作業一_What do you think of Cloud Computing ? 				</a>截止日期:03/22</p>
 	</li>
@@ -78,6 +78,6 @@
     <td>willy900116@gmail.com</td>
   </tr>
 </table>
-<a href="https://trello.com/b/W2wu1PyZ/%E9%80%B2%E5%BA%A6%E8%BF%BD%E8%B9%A4">進度追蹤 </a>
+< <a href="https://trello.com/b/W2wu1PyZ/%E9%80%B2%E5%BA%A6%E8%BF%BD%E8%B9%A4">進度追蹤 </a>
 
 
