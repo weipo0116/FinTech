@@ -35,12 +35,37 @@
 	<li> 玉山證券-詹益安老師</li>
 </ul>	
 <h4>組員</h4>
-<ul>
-	<li> 台大經濟-郭奕廷</li>
-	<li> 台大財金-李佳盈</li>
-	<li> 台大生機-詹佳蒨</li>
-	<li> 台大資管-歐崇愷</li>
-	<li> 東吳巨資-賴威博</li>
-</ul>
+<table>
+  <tr>
+    <th>組員</th>
+    <th>專業</th>
+    <th>電子郵件</th>
+  </tr>
+  <tr>
+    <td>郭奕廷</td>
+    <td>台大經濟</td>
+    <td>kuoyiting123@gmail.com</td>
+  </tr>
+  <tr>
+    <td>李佳盈</td>
+    <td>台大財金</td>
+    <td>lijessie03@gmail.com</td>
+  </tr>
+  <tr>
+    <td>詹佳蒨</td>
+    <td>台大生機</td>
+    <td>b06611044@ntu.edu.tw</td>
+  </tr>
+  <tr>
+    <td>歐崇愷</td>
+    <td>台大資管</td>
+    <td>b08310054@ntu.edu.tw</td>
+  </tr>
+  <tr>
+    <td>賴威博</td>
+    <td>東吳巨資</td>
+    <td>willy900116@gmail.com</td>
+  </tr>
+</table>
 
 
