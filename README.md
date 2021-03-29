@@ -7,7 +7,7 @@
 就讀 東吳大學巨資系 (Big Data Management) <br>
 
 <h3>作業繳交區:</h3>
-<ul>
+<>
 	<li>
 		<a href="homework/0318_HW.md">作業一_What do you think of Cloud Computing ?</a>
 	</li>
@@ -26,7 +26,7 @@
 	<li>
 		<a href="homework/0322_HW.md">作業六_Create a Docker Container or Build your own Project Services</a>
 	</li>
-</ul>  
+</>  
 <h3>專題:玉山證券題目一</h3>
 <p>Mentors</p>
 <ol>
