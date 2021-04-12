@@ -73,12 +73,12 @@
   <tr>
     <td>詹佳蒨</td>
     <td>台大生機</td>
-    <td>b06611044@ntu.edu.tw</td>
+    <td>amychiachian@gmail.com</td>
   </tr>
   <tr>
     <td>歐崇愷</td>
     <td>台大資管</td>
-    <td>b08310054@ntu.edu.tw</td>
+    <td>ouchungkai@gmail.com</td>
   </tr>
   <tr>
     <td>賴威博</td>
