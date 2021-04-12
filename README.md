@@ -80,3 +80,4 @@
   </tr>
 </table>
 <a href="https://trello.com/b/W2wu1PyZ/%E9%80%B2%E5%BA%A6%E8%BF%BD%E8%B9%A4">進度追蹤 </a><br>
+<a href="https://docs.google.com/spreadsheets/d/19zVTnEKT4-yo4CVhMYEkP6iGacUsVwxU35vEMthmKrI/edit#gid=0">確認成績 </a><br>
