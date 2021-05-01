@@ -10,52 +10,52 @@
 <h3>作業繳交區:</h3>
 <ul>
 	<li>
-		<p><a href="homework/0318_HW.md">作業一_What do you think of Cloud Computing ? 				 </a>截止日期:03/22</p>
+		<p><a href="homework/0318_HW.md">作業一_What do you think of Cloud Computing ? </a>截止日期:03/22</p>
 	</li>
 	<li>
 		<a href="https://drive.google.com/file/d/1UYbm03ehUAsKlICvyp1P4I0PZ_g8vlCv/view">課程投影片
 	</li>
 	<li>
 		<a href="http://isee.scu.edu.tw/mod/url/view.php?id=703745">課程錄影
-	</li>	
+	</li><br>	
 	<li>
-		<p><a href="https://youtu.be/rE4RbrbPYiU">作業二_Build a Website using Amazon EC2 with LAMP 		 </a>截止日期:04/05</p>
+		<p><a href="https://youtu.be/rE4RbrbPYiU">作業二_Build a Website using Amazon EC2 with LAMP </a>截止日期:04/05</p>
 	</li>
 	<li>
 		<a href="https://drive.google.com/file/d/1UYbm03ehUAsKlICvyp1P4I0PZ_g8vlCv/view">課程投影片
 	</li>
 	<li>
 		<a href="http://isee.scu.edu.tw/mod/url/view.php?id=703745">課程錄影
-	</li>	
+	</li><br>	
 	<li>
-		<p><a href="https://youtu.be/31Mzqz0xFng">作業三_Build a Website using Amazon S3(Versioning) and AWS Amplify 	</a>截止日期:04/05</p>
+		<p><a href="https://youtu.be/31Mzqz0xFng">作業三_Build a Website using Amazon S3(Versioning) and AWS Amplify </a>截止日期:04/05</p>
 	</li>
 	<li>
 		<a href="https://drive.google.com/file/d/1UYbm03ehUAsKlICvyp1P4I0PZ_g8vlCv/view">課程投影片
 	</li>
 	<li>
 		<a href="http://isee.scu.edu.tw/mod/url/view.php?id=703745">課程錄影
-	</li>	
+	</li><br>	
 	<li>
-		<p><a href="https://youtu.be/yj0c_FFoGM0">作業四_Build a Telegram Chatbot using Amazon API Gateway and AWS Lambda 	</a>截止日期:04/26</p>
+		<p><a href="https://youtu.be/yj0c_FFoGM0">作業四_Build a Telegram Chatbot using Amazon API Gateway and AWS Lambda </a>截止日期:04/26</p>
 	</li>
 	<li>
 		<a href="https://drive.google.com/file/d/1UYbm03ehUAsKlICvyp1P4I0PZ_g8vlCv/view">課程投影片
 	</li>
 	<li>
 		<a href="http://isee.scu.edu.tw/mod/url/view.php?id=703745">課程錄影
-	</li>	
+	</li><br>	
 	<li>
-		<p><a href="https://youtu.be/blZvn4ZBnlc">作業五_Create a Database using Amazon RDS or Amazon DynamoDB		</a>截止日期:05/03</p>
+		<p><a href="https://youtu.be/blZvn4ZBnlc">作業五_Create a Database using Amazon RDS or Amazon DynamoDB</a>截止日期:05/03</p>
 	</li>
 	<li>
 		<a href="https://drive.google.com/file/d/1UYbm03ehUAsKlICvyp1P4I0PZ_g8vlCv/view">課程投影片
 	</li>
 	<li>
 		<a href="http://isee.scu.edu.tw/mod/url/view.php?id=703745">課程錄影
-	</li>	
+	</li><br>	
 	<li>
-		<p><a href="">作業六_Create a Docker Container or Build your own Project Services 	</a>截止日期:05/17</p>
+		<p><a href="">作業六_Create a Docker Container or Build your own Project Services </a>截止日期:05/17</p>
 	</li>
 	<li>
 		<a href="https://drive.google.com/file/d/1UYbm03ehUAsKlICvyp1P4I0PZ_g8vlCv/view">課程投影片
