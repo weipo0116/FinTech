@@ -12,13 +12,13 @@
 	<h4>
 		<a href="homework/0318_HW.md">#作業一_What do you think of Cloud Computing ? </a>
 	</h4>
-	<p>截止日期:03/22</p>
+	<p>截止日期:03/22
 	<li>
 		<a href="https://drive.google.com/file/d/1UYbm03ehUAsKlICvyp1P4I0PZ_g8vlCv/view">課程投影片
 	</li>
 	<li>
 		<a href="http://isee.scu.edu.tw/mod/url/view.php?id=703745">課程錄影
-	</li><br>	
+	</li><br></p>	
 	<h4>
 		<a href="https://youtu.be/rE4RbrbPYiU">#作業二_Build a Website using Amazon EC2 with LAMP </a>截止日期:04/05
 	</h4>
