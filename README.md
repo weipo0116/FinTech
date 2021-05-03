@@ -67,7 +67,10 @@ Name: 賴威博 <br>
 		<a href="http://isee.scu.edu.tw/mod/url/view.php?id=714406">課程投影片
 	</li>
 	<li>
-		<a href="http://isee.scu.edu.tw/mod/url/view.php?id=715149">課程錄影
+		<a href="https://drive.google.com/drive/folders/1WHn97vTfOfPQ9DR7qKWSo60ZGjx0V81A?usp=sharing">4/19課程錄影
+	</li>
+	<li>
+		<a href="https://drive.google.com/drive/folders/1n70P9nWd8C9alEHDqOM7QziRLS0uyEOv?usp=sharing">4/26課程錄影
 	</li></p>	
 </ul>  
 <h3>階段回報:</h3>
