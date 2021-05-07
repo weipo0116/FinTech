@@ -18,7 +18,7 @@ Name: 賴威博 <br>
 	</li>
 	<li>
 		<a href="http://isee.scu.edu.tw/mod/url/view.php?id=703745">課程錄影
-	</li></p><br>	
+	</li></p>	
 	<h3>
 		<a href="https://youtu.be/rE4RbrbPYiU">#作業二_Build a Website using Amazon EC2 with LAMP </a>
 	</h3>
@@ -28,7 +28,7 @@ Name: 賴威博 <br>
 	</li>
 	<li>
 		<a href="http://isee.scu.edu.tw/mod/url/view.php?id=705454">課程錄影
-	</li></p><br>	
+	</li></p>	
 	<h3>
 		<a href="https://youtu.be/31Mzqz0xFng">#作業三_Build a Website using Amazon S3(Versioning) and AWS Amplify </a>
 	</h3>
@@ -38,7 +38,7 @@ Name: 賴威博 <br>
 	</li>
 	<li>
 		<a href="http://isee.scu.edu.tw/mod/url/view.php?id=708126">課程錄影
-	</li></p><br>	
+	</li></p>	
 	<h3>
 		<a href="https://youtu.be/yj0c_FFoGM0">#作業四_Build a Telegram Chatbot using Amazon API Gateway and AWS Lambda </a>
 	</h3>
@@ -48,7 +48,7 @@ Name: 賴威博 <br>
 	</li>
 	<li>
 		<a href="http://isee.scu.edu.tw/mod/url/view.php?id=709691">課程錄影
-	</li></p><br>	
+	</li></p>	
 	<h3>
 		<a href="https://youtu.be/blZvn4ZBnlc">#作業五_Create a Database using Amazon RDS or Amazon DynamoDB</a>
 	</h3>
@@ -58,7 +58,7 @@ Name: 賴威博 <br>
 	</li>
 	<li>
 		<a href="http://isee.scu.edu.tw/mod/url/view.php?id=712629">課程錄影
-	</li></p><br>	
+	</li></p>	
 	<h3>
 		<a href="">#作業六_Create a Docker Container or Build your own Project Services </a>
 	</h3>
