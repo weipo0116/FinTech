@@ -17,54 +17,54 @@ Name: 賴威博 <br>
 		<a href="https://drive.google.com/file/d/1UYbm03ehUAsKlICvyp1P4I0PZ_g8vlCv/view">課程投影片
 	</li>
 	<li>
-		<a href="http://isee.scu.edu.tw/mod/url/view.php?id=703745">課程錄影
+		<a href="https://drive.google.com/drive/folders/1QP_p6u0UABpZ1NTBF86dP3HG7rqTRxwZ?usp=sharing">課程錄影
 	</li></p>	
 	<h3>
 		<a href="https://youtu.be/rE4RbrbPYiU">#作業二_Build a Website using Amazon EC2 with LAMP </a>
 	</h3>
 	<p>截止日期:04/05
 	<li>
-		<a href="http://isee.scu.edu.tw/mod/url/view.php?id=704171">課程投影片
+		<a href="https://drive.google.com/file/d/1ysolgVFlpZTMhIPXL7sbdnSzjG5XUicN/view1">課程投影片
 	</li>
 	<li>
-		<a href="http://isee.scu.edu.tw/mod/url/view.php?id=705454">課程錄影
+		<a href="https://drive.google.com/drive/folders/1MaqK-3HvPeBFK-5OjdqAGHtW04jdkZnB">課程錄影
 	</li></p>	
 	<h3>
 		<a href="https://youtu.be/31Mzqz0xFng">#作業三_Build a Website using Amazon S3(Versioning) and AWS Amplify </a>
 	</h3>
 	<p>截止日期:04/05
 	<li>
-		<a href="http://isee.scu.edu.tw/mod/url/view.php?id=706975">課程投影片
+		<a href="https://drive.google.com/file/d/1zTAF-32yebhsIAqjfyM30cjMKl9lvbf-/view">課程投影片
 	</li>
 	<li>
-		<a href="http://isee.scu.edu.tw/mod/url/view.php?id=708126">課程錄影
+		<a href="https://drive.google.com/drive/folders/1piSFgvRxU3414lnz42Fdb2LaKsxnUQQd">課程錄影
 	</li></p>	
 	<h3>
 		<a href="https://youtu.be/yj0c_FFoGM0">#作業四_Build a Telegram Chatbot using Amazon API Gateway and AWS Lambda </a>
 	</h3>
 	<p>截止日期:04/26
 	<li>
-		<a href="http://isee.scu.edu.tw/mod/url/view.php?id=709258">課程投影片
+		<a href="https://drive.google.com/file/d/1-AsnJmAldi_-gPnxdQcyBifScMmR_IBk/view">課程投影片
 	</li>
 	<li>
-		<a href="http://isee.scu.edu.tw/mod/url/view.php?id=709691">課程錄影
+		<a href="https://drive.google.com/drive/folders/1DilYy5s7VwQedzbzG-7fMtAd-PxLb3VE">課程錄影
 	</li></p>	
 	<h3>
 		<a href="https://youtu.be/blZvn4ZBnlc">#作業五_Create a Database using Amazon RDS or Amazon DynamoDB</a>
 	</h3>
 	<p>截止日期:05/03
 	<li>
-		<a href="http://isee.scu.edu.tw/mod/url/view.php?id=712451">課程投影片
+		<a href="https://drive.google.com/file/d/1-Tt21ovueEePMO75VcPnuZADbrIcL4jH/view">課程投影片
 	</li>
 	<li>
-		<a href="http://isee.scu.edu.tw/mod/url/view.php?id=712629">課程錄影
+		<a href="https://drive.google.com/drive/folders/10YFAY4QlK26LZ0Y6eftc004cRrKSu1B-">課程錄影
 	</li></p>	
 	<h3>
 		<a href="">#作業六_Create a Docker Container or Build your own Project Services </a>
 	</h3>
 	<p>截止日期:05/17
 	<li>
-		<a href="http://isee.scu.edu.tw/mod/url/view.php?id=714406">課程投影片
+		<a href="https://www.notion.so/Docker-5cc2ffdbebd44dc1ab46ab1dfc31ebeb">課程講義
 	</li>
 	<li>
 		<a href="https://drive.google.com/drive/folders/1WHn97vTfOfPQ9DR7qKWSo60ZGjx0V81A?usp=sharing">4/19課程錄影
