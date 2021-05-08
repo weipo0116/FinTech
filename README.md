@@ -1,11 +1,11 @@
 <h1> Cloud Computing and FinTech
 <h3>課程介紹:</h3>
-	<a href="https://docs.google.com/spreadsheets/d/19zVTnEKT4-yo4CVhMYEkP6iGacUsVwxU35vEMthmKrI/edit#gid=0">確認成績 </a><br>
+> <a href="https://docs.google.com/spreadsheets/d/19zVTnEKT4-yo4CVhMYEkP6iGacUsVwxU35vEMthmKrI/edit#gid=0">確認成績 </a><br>
 
 <h3>About Me:</h3>
 
-Name: 賴威博 <br>
-就讀 東吳大學巨資系 (Big Data Management) <br>
+> Name: 賴威博 <br>
+> 就讀 東吳大學巨資系 (Big Data Management) <br>
 
 <h3>作業繳交區:</h3>
 <ul>
