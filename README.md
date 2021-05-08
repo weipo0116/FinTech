@@ -63,7 +63,7 @@
 	<h3>
 		<a href="">#作業六_Create a Docker Container or Build your own Project Services </a>
 	</h3>
-	<p>截止日期:05/17
+	<p>透過 Docker 建立Image，並執行該 Container，其內容可以是程序執行、各種伺服器服務等，並上傳至 Docker Hub。截止日期:05/17
 	<li>
 		<a href="https://www.notion.so/Docker-5cc2ffdbebd44dc1ab46ab1dfc31ebeb">課程講義
 	</li>
