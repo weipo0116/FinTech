@@ -13,7 +13,7 @@
 	<h3>
 		<a href="homework/0318_HW.md">#作業一_What do you think of Cloud Computing ? </a>
 	</h3>
-	<p>截止日期:03/22
+	<p>描述雲端運算與其產業的趨勢發展。截止日期:03/22
 	<li>
 		<a href="https://drive.google.com/file/d/1UYbm03ehUAsKlICvyp1P4I0PZ_g8vlCv/view">課程投影片
 	</li>
