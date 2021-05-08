@@ -68,6 +68,9 @@
 		<a href="https://www.notion.so/Docker-5cc2ffdbebd44dc1ab46ab1dfc31ebeb">課程講義
 	</li>
 	<li>
+		<a href="https://docs.microsoft.com/zh-tw/windows/wsl/install-win10">Windows Linux Docker
+	</li>
+	<li>
 		<a href="https://drive.google.com/drive/folders/1WHn97vTfOfPQ9DR7qKWSo60ZGjx0V81A?usp=sharing">4/19課程錄影
 	</li>
 	<li>
