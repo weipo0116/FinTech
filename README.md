@@ -23,9 +23,9 @@
 	<h3>
 		<a href="https://youtu.be/rE4RbrbPYiU">#作業二_Build a Website using Amazon EC2 with LAMP </a>
 	</h3>
-	<p>截止日期:04/05
+	<p>藉由 Linux 2 虛擬機完成安裝，並成功啟動網頁伺服器與資料庫伺服器的功能。截止日期:04/05
 	<li>
-		<a href="https://drive.google.com/file/d/1ysolgVFlpZTMhIPXL7sbdnSzjG5XUicN/view1">課程投影片
+		<a href="https://drive.google.com/file/d/1ysolgVFlpZTMhIPXL7sbdnSzjG5XUicN/view">課程投影片
 	</li>
 	<li>
 		<a href="https://drive.google.com/drive/folders/1MaqK-3HvPeBFK-5OjdqAGHtW04jdkZnB">課程錄影
@@ -33,7 +33,7 @@
 	<h3>
 		<a href="https://youtu.be/31Mzqz0xFng">#作業三_Build a Website using Amazon S3(Versioning) and AWS Amplify </a>
 	</h3>
-	<p>截止日期:04/05
+	<p>運用 S3 與Amplify 服務進行網頁部署。截止日期:04/05
 	<li>
 		<a href="https://drive.google.com/file/d/1zTAF-32yebhsIAqjfyM30cjMKl9lvbf-/view">課程投影片
 	</li>
@@ -43,7 +43,7 @@
 	<h3>
 		<a href="https://youtu.be/yj0c_FFoGM0">#作業四_Build a Telegram Chatbot using Amazon API Gateway and AWS Lambda </a>
 	</h3>
-	<p>截止日期:04/26
+	<p>運用無伺服器框架串接 Telegram Chatbot，並且成功執行 DEMO文件，達到鸚鵡機器人的效果。截止日期:04/26
 	<li>
 		<a href="https://drive.google.com/file/d/1-AsnJmAldi_-gPnxdQcyBifScMmR_IBk/view">課程投影片
 	</li>
@@ -53,7 +53,7 @@
 	<h3>
 		<a href="https://youtu.be/blZvn4ZBnlc">#作業五_Create a Database using Amazon RDS or Amazon DynamoDB</a>
 	</h3>
-	<p>截止日期:05/03
+	<p>運用資料庫服務上傳給定的資料集，並且可透過界面進行 CRUD行為。截止日期:05/03
 	<li>
 		<a href="https://drive.google.com/file/d/1-Tt21ovueEePMO75VcPnuZADbrIcL4jH/view">課程投影片
 	</li>
