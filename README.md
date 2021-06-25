@@ -3,6 +3,8 @@
 <h3>課程介紹:</h3>
 <a href="https://docs.google.com/spreadsheets/d/19zVTnEKT4-yo4CVhMYEkP6iGacUsVwxU35vEMthmKrI/edit#gid=0">確認成績 </a><br>
 <a href="https://drive.google.com/drive/u/1/folders/1flc9ESRyrckaKHVniC0HMcpoJDsmBDQr">學長姐成果 </a><br>
+<a href="https://youtu.be/2FRqw1uEiac">影片 </a><br>
+<a href="https://youtu.be/IjwuXpIMcao">影片 </a><br>
 
 <h3>About Me:</h3>
 
